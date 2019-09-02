@@ -1,1 +1,27 @@
 
+.storeHeader {
+    background-image: url(../img/milkbg.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 300px;
+    
+}
+
+.borderBox {
+    background: rgba(0, 0, 0, 0.5);
+    padding: 15px;
+    border-radius: 5px;
+}
+
+.aboutUs {
+    background-color: rgb(184, 184, 184);
+}
+
+.address {
+    background-color: rgba(26, 125, 224, 0.829);
+}
+
+@media only screen and (max-width: 768px) {
+
+}
